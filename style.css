@@ -451,7 +451,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 0.75rem;
   color: rgba(255, 255, 255, 0.4);
 }
-
 .hero {
   position: relative;
   min-height: 100vh;
@@ -461,7 +460,6 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   padding: 5rem 1rem 2.5rem;
 }
-
 .hero-bg {
   position: absolute;
   inset: 0;
